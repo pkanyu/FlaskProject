@@ -1,1 +1,1 @@
-# A simple sign up in flask.￼Enter
+# A simple sign up in flask.
